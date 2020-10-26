@@ -1,5 +1,4 @@
 #include <iostream>
-
 std::string echo(int length, char** chars)
 {
 	std::string ret = "";

@@ -1,7 +1,8 @@
+c-echo-count
+test
+
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
+CMakeFiles.txt
 Makefile
-c-echo-count
-googletest/
-test

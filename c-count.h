@@ -12,7 +12,6 @@ unsigned int count(const std::string& str) {
             counter++;
             on_space = false;
         }
-    }
-
+  
     return counter;
 }
